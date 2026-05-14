@@ -103,7 +103,7 @@ AI_Social_Awareness_Generator/
 ## 1️ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI_Social_Awareness_Generator.git
+git clone https://github.com/deepakkateghar/social-awareness-based-ai-chatbot.git
 ```
 
 ---
